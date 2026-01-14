@@ -67,10 +67,9 @@ section{
 }
 
 .container{
-    background-size: cover;
     background-attachment: fixed;
     background-position: right center;
-    width: 100%;
+    background-size: cover;
     box-shadow: inset 3px 4px 13px 0px black;
 }
 
@@ -82,8 +81,8 @@ footer{
     text-align: center;
 }
 
-.container--normal > p{
-    padding-bottom: 40px;
+#normal{
+    padding-bottom: 20px;
 }
 
 /*
