@@ -62,7 +62,7 @@ section{
     font-family: var(--fonte3);
     padding: 60px 0px 50px 40px;
     line-height: 2em;
-    font-size: 3vw;
+    font-size: 4vw;
     background-color: white;
 }
 
@@ -75,11 +75,15 @@ section{
 }
 
 footer{
-    padding: 20px;
+    padding: 10px;
     background-color: black;
     color: white;
     font-family: var(--fonte1);
     text-align: center;
+}
+
+.container--normal > p{
+    padding-bottom: 40px;
 }
 
 /*
