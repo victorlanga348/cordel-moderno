@@ -63,13 +63,14 @@ section{
     padding: 60px 0px 50px 40px;
     line-height: 2em;
     font-size: 3vw;
+    background-color: white;
 }
 
 .container{
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
-    height: 60vw;
+    width: 100%;
     box-shadow: inset 3px 4px 13px 0px black;
 }
 
